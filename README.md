@@ -14,4 +14,4 @@ Task 1 enhanced my ability to create visualizations, such as bar charts and hist
 
 For any inquiries or collaborations, feel free to reach out:
 
-- Email: Kaushal Dev (arnavij1001@gmail.com)
+- Email: Arnavi Jain (arnavij1001@gmail.com)
